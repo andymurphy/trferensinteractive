@@ -6,4 +6,7 @@ The original styles.css with a white backgournd is for well lit galleries while 
 
 The plan is to deploy this on a Raspberry Pi connected to a touchscreen to provide a low cost, in-house developed interactive.
 
-TODO: Make the Questions header gold when selected
+TODO: 
+Make the Questions header gold when selected
+Prevent zooming in using multitouch touchscreen 
+Get modern image of Ferensway

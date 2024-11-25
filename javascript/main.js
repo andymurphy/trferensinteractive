@@ -2,7 +2,7 @@
 // the addEventListener function
 if(window.addEventListener)
 {
-	console.log('Browser supports event listener');
+	//console.log('Browser supports event listener');
 	window.addEventListener
 	(
 		'load', // this is the load event
